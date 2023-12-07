@@ -559,7 +559,7 @@ private: System::Void panel3_Paint(System::Object^ sender, System::Windows::Form
 
 
 	}
-private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
+
 }
 };
 }
